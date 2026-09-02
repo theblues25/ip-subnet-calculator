@@ -1,6 +1,10 @@
 # IP Subnet Calculator
 
-**🌐 Live Demo:** [ip-subnet-calculator-dc0q.onrender.com](https://ip-subnet-calculator-dc0q.onrender.com/)
+> **⚠️ This project has moved.** It now lives at
+> [`theblues25/running-config`](https://github.com/theblues25/running-config), under `tools/ip-calculator/`.
+> This repository is archived; please use the new one for the live tool and any future updates.
+
+**🌐 New live URL:** [theblues25.github.io/running-config/tools/ip-calculator](https://theblues25.github.io/running-config/tools/ip-calculator/)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
